@@ -1,6 +1,9 @@
 # Median
 
 ## Project Concept
+Couriers are distinguished from ordinary mail services by features such as speed, security, tracking, signature, specialization and individualization of express services, and swift delivery times, which are optional for most everyday mail services. 
+
+The main function of the system is to track the whereabouts of the items to deliver for their customers to not worry or assume about its time of arrival to the receiver. Additional features include text messaging, and proof of receipt. Whenever there is update on the tracking or the status of the items has been changed, a text message will be sent to the customer informing him of the update. A link to the proof that the item/s have been received will be provided so the customers will know that their items were delivered properly. 
 
 ### Statement of the Problem
 The main problem that this project wants to solve is the difficulty in having the items processed and delivered right in time. Specifically, the problem includes:
