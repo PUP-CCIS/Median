@@ -15,6 +15,7 @@ The main problem that this project wants to solve is the difficulty in having th
 The general objective of this project is to develop two mobile applications – one, for the messenger to add and update the tracking of the items for the customers; two, an application for the customers where QR code scanning and Tracking Number will be used to track the items. 
 1.	To develop a tracking module for each item to be delivered.
 When the items to be delivered are in the delivery phase, the client is not informed of the whereabouts of the items. They just have to hold on to the date given to them by the company. But there are times that the messenger had delivered the item a day or so later than the specified date, and there are also cases that when it happens, the receiver, or anybody available, is not home.
+
 So, for the customers to lessen the burden of waiting just to be disappointed, the proponents aim to consider the eventual tracking of the items, update the customers the whereabouts of their items and, to send them text messages about the updates.
 2.	To add batch processing for the items that of the same route.
 There are instances that the deliveries may have been delivered late because of too much items to be delivered held by the messenger. As a solution, batch processing shall be used to prevent delays in deliveries.
